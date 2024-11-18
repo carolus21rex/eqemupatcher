@@ -1,4 +1,4 @@
-23
+24
 tel,tel
 gig,gig
 gen,gen
@@ -22,3 +22,4 @@ cry,cry
 cst,cst
 dru,hateplane_chr
 crs,crs
+mim, mim_chr
