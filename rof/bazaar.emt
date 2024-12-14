@@ -1,0 +1,8 @@
+﻿;?,SoundFile (wav=sound mp3/xmi=music),Unknown (0=OK 1=OK),WhenActive (0=Always 1=Daytime 2=Nighttime),Volume (1.0 = 100%),FadeInMS,FadeOutMS,WavLoopType (0=Constant 1=Delayed Repeat),X,Y,Z,WavFullVolRadius,WavMaxAudibleDist,NonZero = RandomizeLocation,ActivationRange,MinRepeatDelay,MaxRepeatDelay,xmiIndex,EchoLevel (50 = Max),IsEnvSound (for option toggle)
+2,ghost_lp.wav,0,0,0.75,0,0,1,250,-440,-50,100,100,0,100,750,3000,0,0,1
+2,hor_wlk.wav,0,0,1,0,0,0,-538,198,3,100,100,0,100,0,0,0,0,1
+2,horse_neigh01.wav,0,0,1,0,0,1,-467,259,3,50,50,0,75,4500,10000,0,0,1
+2,horse_neigh02.wav,0,0,1,0,0,1,-541,259,3,50,50,0,75,4500,10000,0,0,1
+2,horse_neigh03.wav,0,0,1,0,0,1,-616,259,3,50,50,0,75,4500,10000,0,0,1
+2,bazaar_arena.mp3,0,0,0.5,0,0,0,0,0,-5,400,400,0,400,0,0,0,0,1
+2,bazaar.mp3,0,0,0.5,0,0,0,-590,-150,3,350,350,0,350,0,0,0,0,1
