@@ -1,0 +1,2 @@
+crystals.eqg
+shardsobj.eqg

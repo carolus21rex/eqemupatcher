@@ -1,0 +1,10 @@
+9
+cub,fearplane_chr
+brx,brx
+gr1,gr1
+sey,sey
+cry,cry
+i26,i26
+swi,swi
+ala,ala
+dre,dre
