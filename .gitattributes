@@ -3,6 +3,8 @@
 ###############################################################################
 * text eol=crlf
 *.txt binary
+*.html binary
+*.emt binary
 *.eff binary
 *.xml binary
 *.dll binary
@@ -10,6 +12,7 @@
 *.txc binary
 *.xmi binary
 *.eqg binary
+*.zon binary
 *.mp3 binary
 
 ###############################################################################
@@ -53,6 +56,7 @@
 *.png   binary
 *.ico   binary
 *.gif   binary
+*.dds   binary
 
 ###############################################################################
 # diff behavior for common document formats
