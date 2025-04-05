@@ -3,3 +3,4 @@ lavastorm.eqg
 bazaar.eqg
 tox.eqg
 commons.eqg
+nro_assets.txt
