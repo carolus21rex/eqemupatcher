@@ -1,0 +1,5 @@
+gus_anims.eqg
+Tradeskill_objects.eqg
+crescent_tradeskill_obj.eqg
+solrotower_chr2
+solrotower_chr
